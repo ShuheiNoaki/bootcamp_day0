@@ -77,10 +77,10 @@ article {
 	border-bottom: 1px solid #EEEEEE;
 }
 
-article>section {
+/*article>section {
 	background-color: #DDDDDD;
 }
-
+*/
 time {
 	font-size: 20px;
 }
