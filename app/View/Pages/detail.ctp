@@ -1,11 +1,11 @@
 <article>
 	<section>
 		<p class="h3">2015-08-07</p>
-		<h1 class="h2">安い！旨い！</h1>
+		<h1 class="h2">安い！旨い！驚きのコスパに大満足な食通オススメの飲食店</h1>
 		<hr>
-		<p>本文</p>
-		<span></span>
-		<a herf="#">夏目漱石</a>
+		<p>安くて旨い。こんな幸せが世の中にあるなら知りたいですよね。食通オススメの飲食店を今回はご紹介いたします。</p>
+		<span class="fa fa-tags"></span>
+		<a herf="">グルメ</a>
 	</section>
 	<section>
 		<div>
